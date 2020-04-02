@@ -36,4 +36,4 @@ Core web team roles and extended secondary team roles in larger web projects are
 
 
 
-Hosted With [Amazon](https://aws.amazon.com/documentation/s3/) | Made With ❤ in Fort Bragg, NC · Built with 2  [Genesises](https://github.com/orgs/RamenCoders/people)
+Hosted With [Github](https://developer.github.com) | Made With ❤ in Fort Bragg, NC

@@ -119,8 +119,7 @@ Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-http://ramencoders.club
-USA
-coderamens@gmail.com
+[http://ramencoders.club](https://github.com/BraXon-Devs)
+[mailto:](braxon.devs@gmail.com)
 
-Last Edited on 2018-03-27
+Last Edited on 15-02-23
